@@ -140,7 +140,7 @@ The top 100 candidates are exported together with explainable reasoning.
 ## Repository Structure
 
 ```
-Redrob-AI-Candidate-Ranker/
+Candidate-Ranker/
 
 ├── Redrob_AI_Ranker.ipynb
 ├── README.md
